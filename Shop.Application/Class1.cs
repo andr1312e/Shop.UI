@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Shop.Domain
+namespace Shop.Application
 {
     public class Class1
     {
